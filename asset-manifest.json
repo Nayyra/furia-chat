@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/furia-chat/static/css/main.4e93f367.css",
+    "main.js": "/furia-chat/static/js/main.3b531b05.js",
+    "index.html": "/furia-chat/index.html",
+    "main.4e93f367.css.map": "/furia-chat/static/css/main.4e93f367.css.map",
+    "main.3b531b05.js.map": "/furia-chat/static/js/main.3b531b05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e93f367.css",
+    "static/js/main.3b531b05.js"
+  ]
+}
