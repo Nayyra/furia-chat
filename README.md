@@ -1,15 +1,3 @@
-Ótimo! Vou preparar a documentação em português para o projeto **chat-furioso**, um chat em tempo real com autenticação via Google, utilizando Firebase e React, com deploy feito pelo GitHub Pages.
-
-Vou incluir uma estrutura completa para o `README.md` com seções como:
-
-* Visão Geral do Projeto
-* Tecnologias Utilizadas
-* Como Executar Localmente
-* Deploy no GitHub Pages
-* Funcionalidades
-
-Assim que estiver pronta, te aviso aqui.
-
 
 # Chat Furioso
 
@@ -107,6 +95,3 @@ A estrutura principal do projeto é a seguinte:
   * `README.md`: este arquivo de documentação.
   * `LICENSE`: arquivo com a Licença MIT.
 
-## Licença
-
-Este projeto está licenciado sob a **Licença MIT**. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
